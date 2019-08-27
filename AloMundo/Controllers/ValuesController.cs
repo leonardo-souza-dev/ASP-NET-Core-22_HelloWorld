@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TesteCore21.Controllers
+namespace AloMundo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
