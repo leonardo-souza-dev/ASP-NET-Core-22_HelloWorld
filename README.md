@@ -2,3 +2,4 @@
 
 Projeto "Alô Mundo" do Visual Studio utilizando:
 * ASP.NET Core 2.2
+* NUnit
